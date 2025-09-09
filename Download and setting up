@@ -1,3 +1,3 @@
 The Psychophysics Toolbox, aka Psychtoolbox, is a powerful toolbox to design psychological experiments in MATLAB. It offers a variety of controls over the screen display, stimuli presentation, time caculation, and basically all you can name. The only problem with it is that you have to have MATLAB to use it! You might be thinking: "Duh, of course", but this is a reason why people are using PsychPy.
 
-To download Psychtoolbox, you can simply follow the instructions on [this page](http://psychtoolbox.org/download.html)
+To download Psychtoolbox, you can simply follow the instructions on this page.
